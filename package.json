@@ -1,0 +1,20 @@
+{
+    "name": "wallet-notify-api",
+    "version": "1.0.0",
+    "description": "Backend API to receive wallet approvals",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "cors": "^2.8.5",
+      "body-parser": "^1.20.2"
+    },
+    "engines": {
+      "node": "18.x"
+    },
+    "author": "",
+    "license": "MIT"
+  }
+  
